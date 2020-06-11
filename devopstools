@@ -9,6 +9,11 @@ Python scripting
 Maven
 Jenkins
 Ansible
+	-inventory 
+	-ansible.cfg
+	-ad hoc
+	-playbook
+	  - etc etc
 AWS part 2
 Docker 
 Kubernetes
