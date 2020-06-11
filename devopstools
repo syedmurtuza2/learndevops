@@ -21,6 +21,8 @@ Ansible
 	-templates
 	-variables
 	- etc etc
+	-roles
+	-galaxy roles
 AWS part 2
 Docker 
 Kubernetes
